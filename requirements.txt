@@ -2,4 +2,4 @@ matplotlib==2.1.0
 pandas==0.20.3
 xxhash==1.0.1
 scipy==0.19.1
-numpy==1.13.3
+numpy==1.21.0
